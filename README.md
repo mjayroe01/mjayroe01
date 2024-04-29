@@ -1,5 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mjayroe01)](https://git.io/streak-stats)
-
 ### About:
 - Full Stack Developer at <a href="https://www.bargedesign.com/">[Barge Design Solutions]</a>
 - Cofounder and CEO of <a href="https://www.fyefantasy.com/">[Fye Fantasy]</a>
