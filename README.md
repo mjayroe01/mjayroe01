@@ -1,6 +1,6 @@
 ### About Me:
-- Full Stack Developer at <a href="https://www.bargedesign.com/">[Barge Design Solutions]</a>
-- Cofounder and CEO of <a href="https://www.fyefantasy.com/">[Fye Fantasy]</a>
+- Full Stack Developer at <a href="https://www.bargedesign.com/" target="_blank">[Barge Design Solutions]</a>
+- Cofounder and CEO of <a href="https://www.fyefantasy.com/" target="_blank">[Fye Fantasy]</a>
 
 ### Languages:
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
