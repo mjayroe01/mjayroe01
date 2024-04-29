@@ -1,4 +1,4 @@
-### About Me:
+### About:
 - Full Stack Developer at <a href="https://www.bargedesign.com/">[Barge Design Solutions]</a>
 - Cofounder and CEO of <a href="https://www.fyefantasy.com/">[Fye Fantasy]</a>
 
