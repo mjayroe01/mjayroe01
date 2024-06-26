@@ -1,7 +1,7 @@
 ### About:
 - BS in Software Engineering from <a href="https://www.auburn.edu">[Auburn University]</a>
-- Full Stack Developer at <a href="https://www.bargedesign.com">[Barge Design Solutions]</a>
 - Cofounder and CTO of <a href="https://www.fyefantasy.com">[Fye Fantasy]</a>
+- Full Stack Developer at <a href="https://www.bargedesign.com">[Barge Design Solutions]</a>
 
 ### Languages:
   <a href="https://www.typescriptlang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
