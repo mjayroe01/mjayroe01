@@ -29,5 +29,6 @@
   
 ### Collaboration:
   <a href="https://dev.azure.com"><img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="DevOps" alt="DevOps" width="40" height="40"/></a>&nbsp;
-  <a href="https://github.com"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
+  <a href="https://github.com"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
+  <a href="https://git-scm.com"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
   <a href="https://www.canva.com"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/></a>&nbsp;
