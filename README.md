@@ -1,6 +1,6 @@
 ### About:
 - BS in Software Engineering from <a href="https://www.auburn.edu">[Auburn University]</a>
-- Cofounder and CTO of <a href="https://www.fyefantasy.com">[Fye Fantasy]</a>
+- Previous Cofounder and CTO of <a href="https://www.fyefantasy.com">[Fye Fantasy]</a>
 - Full Stack Developer at <a href="https://www.bargedesign.com">[Barge Design Solutions]</a>
 
 ### Languages:
