@@ -13,6 +13,7 @@
   
 ### Frameworks:
   <a href="https://react.dev"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.electronjs.org"><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/></a>&nbsp;
   <a href="https://angular.io"><img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/></a>&nbsp;
   <a href="https://dotnet.microsoft.com"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/></a>&nbsp;
   
